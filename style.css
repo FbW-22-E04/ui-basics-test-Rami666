@@ -1,0 +1,61 @@
+*{
+
+    
+  margin: 0;
+}
+
+header{
+    position: sticky;
+    top: -10px;
+    background-color: cyan;
+    height: 80px;
+    
+}
+h1{
+
+    padding-top: 20px;
+    font-style: normal;
+}
+.li2{
+
+    color: blue;
+}
+.images{
+
+display: flex;
+
+}
+
+.heading3{
+color: rgb(255,165,0);
+font-size: 2rem;
+text-transform: uppercase;
+
+
+}
+.link{
+color: green;
+
+}
+.link:hover{
+color: red;
+
+}
+.box-model{
+padding: 5px;
+ box-sizing: border-box;
+ margin: 10%;
+
+}
+.circle{
+border-radius: 50%;
+width: 200px;
+}
+
+
+
+
+
+
+
+
